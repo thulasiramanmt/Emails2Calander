@@ -11,3 +11,16 @@ FEATURES(needed):
   - Programing Language: Python
   - APIS: APPLE Calandar or Google Calander
   - Python libraries: "email", "imaplib", "google-api-python-client","dateutil"
+ 
+
+RESOURCES: 
+- Gmail API Documentation {https://developers.google.com/gmail/api/guides}
+- Python Qickstart for Gmail API {https://developers.google.com/gmail/api/quickstart/python}
+- Microsoft Graph API Documentation {https://learn.microsoft.com/en-us/graph/}
+- Python Quickstart for Microsoft API {https://learn.microsoft.com/en-us/graph/tutorials/python?tabs=aad}
+- NLTK Documentation {https://www.nltk.org/}
+- Google Cloud Natural Language API {https://www.toptal.com/machine-learning/google-nlp-tutorial} {https://cloud.google.com/natural-language}
+- React Documentation {https://react.dev/}
+- OAuth 2.0 Documentation {https://oauth.net/2/}
+
+
